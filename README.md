@@ -3,7 +3,7 @@ Cursando Engenharia de Computação pela Universidade Federal de Santa Catarina 
 Meu propósito é ajudar as pessoas, e a forma que eu optei por fazer isso é com a tecnologia e programação <br/>
 
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmarcosmoco@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaogiraldi/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marcos-mo%C3%A7o-giraldi-b63a51226/)[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Jaozin1808/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmarcosmoco@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jao_giraldi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marcos-mo%C3%A7o-giraldi-b63a51226/)[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Jaozin1808/)
 
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-giraldi&show_icons=true&theme=dracula)
 
