@@ -1,5 +1,5 @@
 ## Olá! Eu sou o João Marcos Moço Giraldi 👋👋
-Cursando Engenharia de Computação pela Universidade Federal de Santa Catarina (7/10) <br/>
+Cursando Engenharia de Computação pela Universidade Federal de Santa Catarina (9/10) <br/>
 Meu propósito é ajudar as pessoas, e a forma que eu optei por fazer isso é com a tecnologia e programação <br/>
 
 
